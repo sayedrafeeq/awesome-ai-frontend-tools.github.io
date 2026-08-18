@@ -1,5 +1,3 @@
-
-
 # 🎨 AI Tools for Front-end & UI Development
 
 **A curated, searchable directory of 500+ AI tools** for every stage of front-end and UI work.
@@ -17,6 +15,8 @@
 
 [🧭 Categories](#categories) · [✨ Features](#features) · [⚡ Quick start](#quick-start) · [🛠️ Edit tools](#how-to-add-or-edit-tools) · [🙌 Submit a tool](#submit-a-tool)
 
+---
+[![AI-Tools-Poster.png](https://i.postimg.cc/Kcdp9NBT/AI-Tools-Poster.png)](https://postimg.cc/pyJBrK0V)]
 ---
 
 ## 🧭 What this is
