@@ -2,7 +2,7 @@
 
 **A curated, searchable directory of 500+ AI tools** for every stage of front-end and UI work.
 
-![🚀 View Live Demo](https://img.shields.io/badge/🚀_View_Live_Demo-7c5cff?style=for-the-badge&logoColor=white)](https://sayedrafeeq.github.io/awesome-ai-frontend-tools.github.io/)
+[![🚀 View Live Demo](https://img.shields.io/badge/🚀_View_Live_Demo-7c5cff?style=for-the-badge&logoColor=white)](https://sayedrafeeq.github.io/awesome-ai-frontend-tools.github.io/)
 
 ![513+ tools](https://img.shields.io/badge/Tools-513%2B-7c5cff?style=for-the-badge)
 ![16 categories](https://img.shields.io/badge/Categories-16-38d9c0?style=for-the-badge)
