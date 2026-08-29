@@ -4,7 +4,7 @@
 
 [![🚀 View Live Demo](https://img.shields.io/badge/🚀_View_Live_Demo-7c5cff?style=for-the-badge&logoColor=white)](https://sayedrafeeq.github.io/awesome-ai-frontend-tools.github.io/)
 
-![513+ tools](https://img.shields.io/badge/Tools-513%2B-7c5cff?style=for-the-badge)
+![514+ tools](https://img.shields.io/badge/Tools-514%2B-7c5cff?style=for-the-badge)
 ![16 categories](https://img.shields.io/badge/Categories-16-38d9c0?style=for-the-badge)
 ![MIT license](https://img.shields.io/badge/License-MIT-ffb454?style=for-the-badge)
 ![PRs welcome](https://img.shields.io/badge/PRs-Welcome-ff6b9d?style=for-the-badge)
@@ -21,7 +21,7 @@
 
 ## 🧭 What this is
 
-One clean, self-contained HTML file that lists **513 AI tools** across **16 categories**, each with a description, pricing tier, tags, and a direct link to the official site.
+One clean, self-contained HTML file that lists **514 AI tools** across **16 categories**, each with a description, pricing tier, tags, and a direct link to the official site.
 
 - 🔍 **Live search** and 🏷️ **category filters** — no build, no server, no dependencies.
 - 💰 **Pricing badges** — Free · Freemium · Paid · Open source.
@@ -42,7 +42,7 @@ One clean, self-contained HTML file that lists **513 AI tools** across **16 cate
 
 ![CSS & Styling](https://img.shields.io/badge/CSS%20%26%20Styling-33-8fd3ff?style=flat-square)
 ![Icons & Assets](https://img.shields.io/badge/Icons%20%26%20Assets-33-ffd06b?style=flat-square)
-![Testing & QA](https://img.shields.io/badge/Testing%20%26%20QA-39-7bf0a8?style=flat-square)
+![Testing & QA](https://img.shields.io/badge/Testing%20%26%20QA-40-7bf0a8?style=flat-square)
 ![AI Models & SDKs](https://img.shields.io/badge/AI%20Models%20%26%20SDKs-42-ff8a8a?style=flat-square)
 ![Design & Collab](https://img.shields.io/badge/Design%20%26%20Collab-21-a3e26b?style=flat-square)
 ![Color, Type & Copy](https://img.shields.io/badge/Color%2C%20Type%20%26%20Copy-19-7ee0ff?style=flat-square)
@@ -61,7 +61,7 @@ One clean, self-contained HTML file that lists **513 AI tools** across **16 cate
 | 8 | 🧱 Component Libraries | 62 |
 | 9 | 🎨 CSS & Styling | 33 |
 | 10 | 🧿 Icons & Assets | 33 |
-| 11 | ✅ Testing & QA | 39 |
+| 11 | ✅ Testing & QA | 40 |
 | 12 | 🤖 AI Models & SDKs | 42 |
 | 13 | 🤝 Design & Collab | 21 |
 | 14 | 🌈 Color, Type & Copy | 19 |
@@ -105,7 +105,7 @@ python -m http.server 8000
 
 ```
 .
-├── index.html     # The list — 513 tools (self-contained)
+├── index.html     # The list — 514 tools (self-contained)
 ├── nginx.conf     # Static hosting config (Function Compute / nginx)
 ├── LICENSE        # MIT license
 └── README.md      # This file
@@ -164,4 +164,3 @@ Pricing tiers and feature sets are a general snapshot and may change over time. 
 Released under the [MIT License](./LICENSE) — feel free to use and adapt this list. Attribution is appreciated but not required.
 
   Made with ❤️ for the design & code community
-
